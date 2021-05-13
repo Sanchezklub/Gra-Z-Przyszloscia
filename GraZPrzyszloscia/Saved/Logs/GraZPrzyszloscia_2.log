@@ -1316,3 +1316,10 @@ An asset already exists at the import location: /Game/TopDownBP/Blueprints/Krog/
 [2021.05.13-07.19.39:190][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.05.13-07.19.39:214][333]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
 [2021.05.13-07.19.39:215][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.24.27:826][919]LogContentBrowser: Attempting asset rename: Krog_Dancing -> Krog-WalkCycle
+[2021.05.13-07.24.27:890][919]LogSavePackage: Moving '../../../../../Gra z przyszłością/grazprzyszloscia/GraZPrzyszloscia/Saved/Krog-WalkCycleD111D4304B8F1317A26B02B30622466A.tmp' to '../../../../../Gra z przyszłością/grazprzyszloscia/GraZPrzyszloscia/Content/TopDownBP/Blueprints/Krog/Krog-WalkCycle.uasset'
+[2021.05.13-07.24.27:919][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.13-07.24.27:929][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.13-07.24.27:934][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.05.13-07.24.27:954][919]AssetCheck: New page: Asset Save: Krog-WalkCycle
+[2021.05.13-07.24.27:954][919]LogContentValidation: Display: Validating AnimSequence /Game/TopDownBP/Blueprints/Krog/Krog-WalkCycle.Krog-WalkCycle
