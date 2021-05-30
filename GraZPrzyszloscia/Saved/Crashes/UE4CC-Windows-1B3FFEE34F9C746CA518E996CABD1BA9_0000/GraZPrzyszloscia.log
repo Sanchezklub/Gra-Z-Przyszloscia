@@ -1,0 +1,1550 @@
+﻿Log file open, 05/30/21 13:05:35
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GraZPrzyszloscia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.287968
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: X:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+[2021.05.30-11.05.35:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.30-11.05.35:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+[2021.05.30-11.05.35:786][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+[2021.05.30-11.05.35:806][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.30-11.05.35:806][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.30-11.05.35:807][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.30-11.05.35:807][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.30-11.05.35:807][  0]LogHAL: Display: Platform has ~ 16 GB [17126649856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.30-11.05.35:807][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.30-11.05.35:807][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Scalability.ini]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.30-11.05.35:808][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.30-11.05.35:809][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Engine.ini]
+[2021.05.30-11.05.35:809][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Config/Windows/Editor.ini]
+[2021.05.30-11.05.35:809][  0]LogInit: Computer: MRDREWIENA
+[2021.05.30-11.05.35:809][  0]LogInit: User: MRDrewienko
+[2021.05.30-11.05.35:809][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.30-11.05.35:809][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.30-11.05.35:809][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.05.30-11.05.35:809][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.30-11.05.35:809][  0]LogMemory: Process Physical Memory: 136.59 MB used, 136.60 MB peak
+[2021.05.30-11.05.35:809][  0]LogMemory: Process Virtual Memory: 118.85 MB used, 118.85 MB peak
+[2021.05.30-11.05.35:809][  0]LogMemory: Physical Memory: 9229.76 MB used,  7103.48 MB free, 16333.25 MB total
+[2021.05.30-11.05.35:809][  0]LogMemory: Virtual Memory: 134204088.00 MB used,  13643.58 MB free, 134217728.00 MB total
+[2021.05.30-11.05.35:814][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.30-11.05.35:852][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.30-11.05.35:853][  0]LogInit: Using OS detected language (pl-PL).
+[2021.05.30-11.05.35:853][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.05.30-11.05.35:855][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.05.30-11.05.35:856][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.30-11.05.35:864][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.30-11.05.35:874][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.30-11.05.35:874][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.30-11.05.36:080][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.30-11.05.36:080][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.30-11.05.36:080][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.30-11.05.36:080][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.30-11.05.36:173][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2021.05.30-11.05.36:173][  0]LogD3D11RHI:       984/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.30-11.05.36:176][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.30-11.05.36:176][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.30-11.05.36:176][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.30-11.05.36:185][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.30-11.05.36:185][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2021.05.30-11.05.36:185][  0]LogWindows: EnumDisplayDevices:
+[2021.05.30-11.05.36:185][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2021.05.30-11.05.36:185][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:1)
+[2021.05.30-11.05.36:185][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2021.05.30-11.05.36:186][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.05.30-11.05.36:186][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2021.05.30-11.05.36:186][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.30-11.05.36:186][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.05.30-11.05.36:186][  0]LogRHI: Texture pool is 689 MB (70% of 984 MB)
+[2021.05.30-11.05.36:256][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.05.30-11.05.36:256][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.30-11.05.36:292][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.30-11.05.36:294][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.30-11.05.36:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.30-11.05.36:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.30-11.05.36:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.30-11.05.36:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.30-11.05.36:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.30-11.05.36:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.30-11.05.36:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.30-11.05.36:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.30-11.05.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.30-11.05.36:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.30-11.05.36:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.30-11.05.36:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.30-11.05.36:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.30-11.05.36:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.30-11.05.36:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.30-11.05.36:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.30-11.05.36:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.30-11.05.36:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.30-11.05.36:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.30-11.05.36:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.30-11.05.36:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.30-11.05.36:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.30-11.05.36:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.30-11.05.36:789][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.30-11.05.36:798][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.30-11.05.36:859][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.30-11.05.36:859][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../grazprzyszloscia/GraZPrzyszloscia/Intermediate/Shaders/WorkingDirectory/17948/).
+[2021.05.30-11.05.36:859][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MR.Drewienko/AppData/Local/Temp/UnrealShaderWorkingDir/B86DC71D4C49629CAA5C379D6604E804/'.
+[2021.05.30-11.05.36:859][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.30-11.05.36:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.30-11.05.37:530][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.30-11.05.37:574][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/MR.Drewienko/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.30-11.05.37:574][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MR.Drewienko/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.30-11.05.37:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../grazprzyszloscia/GraZPrzyszloscia/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.30-11.05.37:574][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.30-11.05.37:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../grazprzyszloscia/GraZPrzyszloscia/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.30-11.05.37:575][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.30-11.05.37:588][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.30-11.05.37:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.30-11.05.37:588][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.30-11.05.37:595][  0]LogDerivedDataCache: Speed tests for C:/Users/MR.Drewienko/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.30-11.05.37:595][  0]LogDerivedDataCache: Display: Performance to C:/Users/MR.Drewienko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1585.42MBs, RandomWriteSpeed=142.43MBs. Assigned SpeedClass 'Local'
+[2021.05.30-11.05.37:596][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MR.Drewienko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.30-11.05.37:596][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.30-11.05.37:596][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.30-11.05.37:645][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.30-11.05.37:645][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.30-11.05.37:668][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.05.30-11.05.37:880][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.30-11.05.37:880][  0]LogInit: Active device profile: [0000020AF4D4A300][0000020AEABF93C0 49] Windows
+[2021.05.30-11.05.37:880][  0]LogInit: Profiles: [0000020AF4D4A300][0000020AEABF93C0 49] Windows, [0000020AF4CE6200][0000020AF41F7540 49] WindowsNoEditor, [0000020AF4D49700][0000020AF41F3680 49] WindowsServer, [0000020AF4CE5700][0000020AF41FB7C0 49] WindowsClient, [0000020AF4D49C00][0000020AF41FF900 49] IOS, [0000020AF4CE6600][0000020AF4207A80 49] iPadAir, [0000020AF4D4A500][0000020AE86CBC00 49] iPadAir2, [0000020AF4C85F00][0000020AE86D2200 49] IPadPro, [0000020AF4C86000][0000020AE86CE240 49] iPadAir3, [0000020AF4CE5500][0000020AE86D63C0 49] iPadAir4, [0000020AF4C87700][0000020AE86DA540 49] iPadMini2, [0000020AF4CE6900][0000020AE86DE6C0 49] iPadMini3, [0000020AF4C85600][0000020AE86E2840 49] iPadMini4, [0000020AF4CE5000][0000020AE86E69C0 49] iPadMini5, [0000020AF4CC5800][0000020AE86EEC80 49] iPhone6, [0000020AF4CC5900][0000020AE86EACC0 49] iPodTouch6, [0000020AF4C86600][0000020AF420AF80 49] iPhone7, [0000020AF4C86200][0000020AE86F2FC0 49] iPodTouch7, [0000020AF4CC6F00][0000020AF420F140 49] iPhone5S, [0000020AF4C87000][0000020AF42132C0 49] iPhone6Plus, [0000020AF4CC7F00][0000020AF4217440 49] iPhone6S, [0000020AF4C84500][0000020AF421B5C0 49] iPhone6SPlus, [0000020AF4CC4900][0000020AF4203700 49] iPhone7Plus, [0000020AF4C87A00][0000020AF421F840 49] iPhoneSE, [0000020AF4CC6B00][0000020AF4223980 49] iPhone8, [0000020AF4C84800][0000020AF4227AC0 49] iPhone8Plus, [0000020AF4CC6500][0000020AF422FC40 49] iPhoneX, [0000020AF4C84D00][0000020AF4232100 49] iPhoneXS, [0000020AF4CC5F00][0000020AF4236280 49] iPhoneXSMax, [0000020AF4C85900][0000020AF423A400 49] iPhoneXR, [0000020AF4CC7000][0000020AF423E580 49] iPhone11, [0000020AF4C86900][0000020AF4242700 49] iPhone11Pro, [0000020AF4CC6200][0000020AF4246880 49] iPhone11ProMax, [0000020AF4C86C00][0000020AF424AA00 49] iPhoneSE2, [0000020AF4CC4700][0000020AF424EB80 49] iPhone12Mini, [0000020AF4C87900][0000020AF4252D00 49] iPhone12, [0000020AF4CC4600][0000020AF4256E80 49] iPhone12Pro, [0000020AF4C87100][0000020AF425B000 49] iPhone12ProMax, [0000020AF4D49900][0000020AF425F180 49] iPadPro105, [0000020AF4C85200][0000020AF4263300 49] iPadPro129, [0000020AF4D4AF00][0000020AF4267480 49] iPadPro97, [0000020AF4C84100][0000020AF427D600 49] iPadPro2_129, [0000020AF4D49500][0000020AF422B740 49] iPad5, [0000020AF4C87800][0000020AF529D880 49] iPad6, [0000020AF4D4A800][0000020AF52A99C0 49] iPad7, [0000020AF4C87E00][0000020AF52CDB00 49] iPad8, [0000020AF4D48900][0000020AF52D9C80 49] iPadPro11, [0000020AF4C84C00][0000020AF52DC140 49] iPadPro2_11, [0000020AF4D49300][0000020AF52E02C0 49] iPadPro3_129, [0000020AF4C85300][0000020AF52E8440 49] iPadPro4_129, [0000020AF4D4A900][0000020AF52EC5C0 49] AppleTV, [0000020AF4C87400][0000020AF52F0740 49] AppleTV4K, [0000020AF4D49200][0000020AF52F48C0 49] TVOS, [0000020AF4C84F00][0000020AF5300A40 49] Mac, [0000020AF4D48D00][0000020AF5304BC0 49] MacClient, [0000020AF4C85D00][0000020AF5308D40 49] MacNoEditor, [0000020AF4D4A200][0000020AF530CEC0 49] MacServer, [0000020AF4C87500][0000020AF531D040 49] Linux, [0000020AF4D49A00][0000020AF53211C0 49] LinuxAArch64, [0000020AF4C86B00][0000020AF5325340 49] LinuxNoEditor, [0000020AF4D48600][0000020AF53294C0 49] LinuxAArch64NoEditor, [0000020AF4C84900][0000020AF532D640 49] LinuxClient, [0000020AF4D4AE00][0000020AF53317C0 49] LinuxAArch64Client, [0000020AF4C84700][0000020AF52D5900 49] LinuxServer, [0000020AF4D48A00][0000020AF534DA40 49] LinuxAArch64Server, [0000020AF4C86D00][0000020AF5351B80 49] Android, [0000020AF4D49D00][0000020AF5359D00 49] Android_Low, [0000020AF4C86500][0000020AF535C1C0 49] Android_Mid, [0000020AF4D4B300][0000020AF5360340 49] Android_High, [0000020AF4C84400][0000020AF53644C0 49] Android_Default, [0000020AF4D48200][0000020AF5388640 49] Android_Adreno4xx, [0000020AF4C86300][0000020AF538C7C0 49] Android_Adreno5xx_Low, [0000020AF4D4A100][0000020AF5390940 49] Android_Adreno5xx, [0000020AF4C86400][0000020AF5394AC0 49] Android_Adreno6xx, [0000020AF4D4A000][0000020AF5398C40 49] Android_Adreno6xx_Vulkan, [0000020AF4C86E00][0000020AF539CDC0 49] Android_Mali_T6xx, [0000020AF4D4AD00][0000020AF53A0F40 49] Android_Mali_T7xx, [0000020AF4C85C00][0000020AF53A50C0 49] Android_Mali_T8xx, [0000020AF4D48B00][0000020AF53A9240 49] Android_Mali_G71, [0000020AF4CC7300][0000020AF53AD3C0 49] Android_Mali_G72, [0000020AF4CE7500][0000020AF53DD540 49] Android_Mali_G72_Vulkan, [0000020AF4CC5600][0000020AF53E16C0 49] Android_Mali_G76, [0000020AF4CE6D00][0000020AF53E5840 49] Android_Mali_G76_Vulkan, [0000020AF4CC5000][0000020AF5355980 49] Android_Mali_G77, [0000020AF4CE5600][0000020AF53E9AC0 49] Android_Mali_G77_Vulkan, [0000020AF4CC6900][0000020AF53EDC00 49] Android_Vulkan_SM5, [0000020AF4CE4900][0000020AF53F40C0 49] Android_PowerVR_G6xxx, [0000020AF4CC6700][0000020AF53F8240 49] Android_PowerVR_GT7xxx, [0000020AF4CE7800][0000020AF53FC3C0 49] Android_PowerVR_GE8xxx, [0000020AF4CC7B00][0000020AF5400540 49] Android_PowerVR_GM9xxx, [0000020AF4CE5300][0000020AF54046C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000020AF4CC4800][0000020AF5408840 49] Android_TegraK1, [0000020AF4CE7A00][0000020AF540C9C0 49] Android_Unknown_Vulkan, [0000020AF4CC6400][0000020AF5410B40 49] Lumin, [0000020AF4CE7C00][0000020AF5414CC0 49] Lumin_Desktop, [0000020AF4CC7700][0000020AF5418E40 49] HoloLens, 
+[2021.05.30-11.05.37:978][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.30-11.05.37:978][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.30-11.05.37:978][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.30-11.05.37:978][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.30-11.05.37:978][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.30-11.05.37:994][  0]LogNetVersion: GraZPrzyszloscia 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 537277055)
+[2021.05.30-11.05.38:417][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.30-11.05.38:456][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.038558 seconds
+[2021.05.30-11.05.38:462][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.30-11.05.38:462][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.30-11.05.38:462][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.30-11.05.38:779][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.30-11.05.38:787][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.30-11.05.39:071][  0]SourceControl: Source control is disabled
+[2021.05.30-11.05.39:071][  0]SourceControl: Source control is disabled
+[2021.05.30-11.05.39:074][  0]SourceControl: Source control is disabled
+[2021.05.30-11.05.39:077][  0]SourceControl: Source control is disabled
+[2021.05.30-11.05.39:094][  0]SourceControl: Source control is disabled
+[2021.05.30-11.05.39:097][  0]LogUProjectInfo: Found projects:
+[2021.05.30-11.05.39:145][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.30-11.05.39:151][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.30-11.05.39:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.30-11.05.39:221][  0]LogCollectionManager: Loaded 0 collections in 0.000713 seconds
+[2021.05.30-11.05.39:243][  0]LogFileCache: Scanning file cache for directory 'X:/grazprzyszloscia/GraZPrzyszloscia/Saved/Collections/' took 0.00s
+[2021.05.30-11.05.39:243][  0]LogFileCache: Scanning file cache for directory 'X:/grazprzyszloscia/GraZPrzyszloscia/Content/Developers/MRDrewienko/Collections/' took 0.00s
+[2021.05.30-11.05.39:243][  0]LogFileCache: Scanning file cache for directory 'X:/grazprzyszloscia/GraZPrzyszloscia/Content/Collections/' took 0.00s
+[2021.05.30-11.05.39:243][  0]LogOcInput: OculusInput pre-init called
+[2021.05.30-11.05.39:254][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.30-11.05.39:254][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.30-11.05.39:299][  0]LogEngine: Initializing Engine...
+[2021.05.30-11.05.39:301][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.30-11.05.39:301][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.30-11.05.39:302][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.30-11.05.39:397][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.30-11.05.39:405][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.30-11.05.39:418][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.30-11.05.39:422][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.30-11.05.39:422][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.30-11.05.39:422][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.30-11.05.39:422][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.30-11.05.39:422][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.30-11.05.39:435][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.30-11.05.39:435][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.30-11.05.39:463][  0]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (Arctis 5 Chat)
+[2021.05.30-11.05.39:469][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.30-11.05.39:470][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.30-11.05.39:471][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.30-11.05.39:472][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.30-11.05.39:472][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.30-11.05.39:472][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.30-11.05.39:472][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.30-11.05.39:472][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.30-11.05.39:472][  0]LogInit: FAudioDevice initialized.
+[2021.05.30-11.05.39:473][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.30-11.05.39:473][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.30-11.05.39:569][  0]LogDerivedDataCache: Saved boot cache 0.10s 77MB C:/Users/MR.Drewienko/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.30-11.05.39:570][  0]LogInit: Texture streaming: Enabled
+[2021.05.30-11.05.39:583][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.30-11.05.39:587][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.30-11.05.39:587][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.30-11.05.39:588][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.30-11.05.39:611][  0]LogInit: Transaction tracking system initialized
+[2021.05.30-11.05.39:635][  0]BlueprintLog: New page: Editor Load
+[2021.05.30-11.05.39:701][  0]LocalizationService: Localization service is disabled
+[2021.05.30-11.05.39:723][  0]TimingProfiler: Initialize
+[2021.05.30-11.05.39:723][  0]TimingProfiler: OnSessionChanged
+[2021.05.30-11.05.39:723][  0]LoadingProfiler: Initialize
+[2021.05.30-11.05.39:723][  0]LoadingProfiler: OnSessionChanged
+[2021.05.30-11.05.39:723][  0]NetworkingProfiler: Initialize
+[2021.05.30-11.05.39:724][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.30-11.05.39:724][  0]MemoryProfiler: Initialize
+[2021.05.30-11.05.39:724][  0]MemoryProfiler: OnSessionChanged
+[2021.05.30-11.05.39:851][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.30-11.05.39:851][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.30-11.05.40:009][  0]LogFileCache: Scanning file cache for directory 'X:/grazprzyszloscia/GraZPrzyszloscia/Content/' took 0.01s
+[2021.05.30-11.05.40:195][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.30-11.05.40:198][  0]SourceControl: Source control is disabled
+[2021.05.30-11.05.40:198][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.691
+[2021.05.30-11.05.40:198][  0]Cmd: MAP LOAD FILE="../../../../grazprzyszloscia/GraZPrzyszloscia/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.30-11.05.40:199][  0]LightingResults: New page: Lighting Build
+[2021.05.30-11.05.40:199][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.30-11.05.40:199][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.05.40:199][  0]MapCheck: New page: Map Check
+[2021.05.30-11.05.40:199][  0]LightingResults: New page: Lighting Build
+[2021.05.30-11.05.40:205][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.30-11.05.40:816][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.05.30-11.05.40:818][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.05.30-11.05.40:835][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.30-11.05.40:836][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.05.30-11.05.40:844][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.30-11.05.40:844][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.30-11.05.40:844][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2021.05.30-11.05.40:844][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.645
+[2021.05.30-11.05.40:846][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.338
+[2021.05.30-11.05.40:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.05.40:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.05.40:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.05.41:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.05.41:039][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3601 classes and 859 folders.
+[2021.05.30-11.05.41:043][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.30-11.05.41:070][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.30-11.05.41:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.30-11.05.41:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.30-11.05.41:081][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.30-11.05.41:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.30-11.05.41:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.30-11.05.41:091][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.30-11.05.41:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.30-11.05.41:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.30-11.05.41:102][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.30-11.05.41:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.30-11.05.41:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.30-11.05.41:112][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.30-11.05.41:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.30-11.05.41:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.30-11.05.41:121][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.30-11.05.41:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.30-11.05.41:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.30-11.05.41:130][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.30-11.05.41:130][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:130][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.30-11.05.41:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.30-11.05.41:141][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.30-11.05.41:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.30-11.05.41:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.05.30-11.05.41:157][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.30-11.05.41:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.30-11.05.41:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.05.30-11.05.41:166][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.30-11.05.41:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.30-11.05.41:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.05.30-11.05.41:173][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.30-11.05.41:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.30-11.05.41:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.05.30-11.05.41:181][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.30-11.05.41:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.30-11.05.41:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.05.30-11.05.41:188][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.30-11.05.41:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.30-11.05.41:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.30-11.05.41:195][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.30-11.05.41:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.30-11.05.41:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.05.30-11.05.41:202][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.30-11.05.41:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.30-11.05.41:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.05.30-11.05.41:210][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.30-11.05.41:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.30-11.05.41:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.05.30-11.05.41:218][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.30-11.05.41:218][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:218][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.30-11.05.41:218][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.05.30-11.05.41:227][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.30-11.05.41:227][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:227][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.30-11.05.41:227][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.05.30-11.05.41:237][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.30-11.05.41:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.30-11.05.41:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.05.30-11.05.41:251][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.30-11.05.41:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.30-11.05.41:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.05.30-11.05.41:260][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.30-11.05.41:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.30-11.05.41:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.05.30-11.05.41:269][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.30-11.05.41:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.30-11.05.41:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.05.30-11.05.41:278][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.30-11.05.41:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.30-11.05.41:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.05.30-11.05.41:288][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.30-11.05.41:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.30-11.05.41:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2021.05.30-11.05.41:297][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.30-11.05.41:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.30-11.05.41:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2021.05.30-11.05.41:305][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.30-11.05.41:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.30-11.05.41:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.30-11.05.41:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2021.05.30-11.05.41:701][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.30-11.05.41:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.30-11.05.41:759][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.30-11.05.41:761][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.30-11.05.41:773][  0]LogSlate: Took 0.006742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.30-11.05.41:927][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2021.05.30-11.05.44:375][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.30-11.05.44:376][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.30-11.05.44:376][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.05.30-11.05.44:376][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.30-11.05.44:376][  0]LogLoad: (Engine Initialization) Total time: 9.87 seconds
+[2021.05.30-11.05.44:376][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.30-11.05.44:376][  0]LogInit: First time updating LLM stats...
+[2021.05.30-11.05.44:416][  0]LogAssetRegistry: Asset discovery search completed in 6.7493 seconds
+[2021.05.30-11.05.44:417][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.30-11.05.44:440][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.30-11.05.45:023][  3]LogSlate: Took 0.006341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.30-11.05.50:827][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.30-11.05.50:931][159]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.30-11.05.51:152][159]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra
+[2021.05.30-11.05.51:152][159]Cmd: MAP LOAD FILE="../../../../grazprzyszloscia/GraZPrzyszloscia/Content/TopDownBP/Maps/Mapatadobra.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.30-11.05.51:152][159]LightingResults: New page: Lighting Build
+[2021.05.30-11.05.51:152][159]LoadErrors: New page: Loading map: Mapatadobra.umap
+[2021.05.30-11.05.51:155][159]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.30-11.05.51:155][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.05.51:156][159]MapCheck: New page: Map Check
+[2021.05.30-11.05.51:156][159]LightingResults: New page: Lighting Build
+[2021.05.30-11.05.51:159][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.30-11.05.51:161][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.30-11.05.51:161][159]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mapatadobra'.
+[2021.05.30-11.05.51:173][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.30-11.05.51:173][159]LogAIModule: Creating AISystem for world Mapatadobra
+[2021.05.30-11.05.51:180][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.30-11.05.51:189][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.30-11.05.51:189][159]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,076ms to complete.
+[2021.05.30-11.05.51:190][159]LogFileHelpers: Loading map 'Mapatadobra' took 0.038
+[2021.05.30-11.06.12:237][596]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-11.10.59:265][861]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.11.00:531][883]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.05.30-11.11.48:139][993]LogSlate: Took 0.006546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.30-11.11.49:985][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2021.05.30-11.11.51:906][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.12.08:986][364]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.30-11.12.08:996][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.30-11.12.08:997][364]PIE: New page: PIE session: Mapatadobra (30 maj 2021, 15:12:08)
+[2021.05.30-11.12.08:999][364]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.30-11.12.09:001][364]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.30-11.12.09:002][364]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra
+[2021.05.30-11.12.09:019][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017439s)
+[2021.05.30-11.12.09:020][364]LogAIModule: Creating AISystem for world Mapatadobra
+[2021.05.30-11.12.09:020][364]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2021.05.30-11.12.09:021][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra to /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra.Mapatadobra (0.019658s)
+[2021.05.30-11.12.09:027][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.30-11.12.09:029][364]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.30-11.12.09:029][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.30-11.12.09:029][364]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.30-11.12.09:029][364]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.30-11.12.09:032][364]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.30-11.12.09:032][364]LogAudioMixer: Display: 1: FrontRight
+[2021.05.30-11.12.09:042][364]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (Arctis 5 Chat)
+[2021.05.30-11.12.09:042][364]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.30-11.12.09:042][364]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.30-11.12.09:043][364]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.30-11.12.09:043][364]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.30-11.12.09:043][364]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.30-11.12.09:043][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.30-11.12.09:056][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.30-11.12.09:056][364]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.30-11.12.09:056][364]LogInit: FAudioDevice initialized.
+[2021.05.30-11.12.09:056][364]LogAudio: Display: Audio Device (ID: 2) registered with world 'Mapatadobra'.
+[2021.05.30-11.12.09:065][364]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.05.30-11.12.09:072][364]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra.Mapatadobra up for play (max tick rate 0) at 2021.05.30-13.12.09
+[2021.05.30-11.12.09:074][364]LogWorld: Bringing up level for play took: 0.003529
+[2021.05.30-11.12.09:075][364]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.05.30-11.12.09:084][364]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.30-11.12.09:092][364]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.30-11.12.09:093][364]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.30-11.12.09:093][364]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.30-11.12.09:094][364]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.30-11.12.09:094][364]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.30-11.12.09:095][364]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2021.05.30-11.12.09:106][364]PIE: Server logged in
+[2021.05.30-11.12.09:108][364]PIE: Play in editor total start time 0,114 seconds.
+[2021.05.30-11.12.15:866][501]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.05.30-11.12.15:867][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.12.15:867][501]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra
+[2021.05.30-11.12.15:868][501]LogWorld: UWorld::CleanupWorld for Mapatadobra, bSessionEnded=true, bCleanupResources=true
+[2021.05.30-11.12.15:869][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.12.15:897][501]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.05.30-11.12.15:897][501]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.05.30-11.12.15:899][501]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.05.30-11.12.15:900][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.30-11.12.15:910][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.12.15:916][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.30-11.12.15:916][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.30-11.12.15:917][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.30-11.12.15:930][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.12.15:934][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.30-11.12.15:961][502]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.05.30-11.13.10:577][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.14.31:542][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.30-11.14.51:697][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2021.05.30-11.15.03:279][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2021.05.30-11.15.09:102][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2021.05.30-11.15.14:241][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2021.05.30-11.15.37:052][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.30-11.15.41:504][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2021.05.30-11.15.51:600][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2021.05.30-11.15.52:340][383]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.15.54:304][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2021.05.30-11.16.05:849][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2021.05.30-11.16.08:835][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.30-11.16.12:205][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2021.05.30-11.16.16:607][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2021.05.30-11.16.19:501][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.05.30-11.16.23:664][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2021.05.30-11.16.26:950][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.30-11.16.43:084][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2021.05.30-11.16.54:102][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.30-11.16.57:130][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2021.05.30-11.17.02:354][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2021.05.30-11.17.27:345][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.30-11.17.31:915][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2021.05.30-11.18.22:017][716]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.30-11.18.22:024][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.30-11.18.22:025][716]PIE: New page: PIE session: Mapatadobra (30 maj 2021, 15:18:22)
+[2021.05.30-11.18.22:025][716]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra
+[2021.05.30-11.18.22:039][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014662s)
+[2021.05.30-11.18.22:040][716]LogAIModule: Creating AISystem for world Mapatadobra
+[2021.05.30-11.18.22:040][716]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2021.05.30-11.18.22:040][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra to /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra.Mapatadobra (0.015979s)
+[2021.05.30-11.18.22:062][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.30-11.18.22:063][716]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.30-11.18.22:063][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.30-11.18.22:063][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.30-11.18.22:063][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.30-11.18.22:063][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.30-11.18.22:063][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.30-11.18.22:063][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.30-11.18.22:063][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.30-11.18.22:064][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.30-11.18.22:064][716]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.30-11.18.22:064][716]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.30-11.18.22:067][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.30-11.18.22:067][716]LogAudioMixer: Display: 1: FrontRight
+[2021.05.30-11.18.22:077][716]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (Arctis 5 Chat)
+[2021.05.30-11.18.22:078][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.30-11.18.22:078][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.30-11.18.22:078][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.30-11.18.22:078][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.30-11.18.22:078][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.30-11.18.22:078][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.30-11.18.22:091][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.30-11.18.22:091][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.30-11.18.22:091][716]LogInit: FAudioDevice initialized.
+[2021.05.30-11.18.22:091][716]LogAudio: Display: Audio Device (ID: 3) registered with world 'Mapatadobra'.
+[2021.05.30-11.18.22:097][716]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.05.30-11.18.22:099][716]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra.Mapatadobra up for play (max tick rate 0) at 2021.05.30-13.18.22
+[2021.05.30-11.18.22:099][716]LogWorld: Bringing up level for play took: 0.001800
+[2021.05.30-11.18.22:099][716]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.05.30-11.18.22:102][716]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.30-11.18.22:102][716]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.30-11.18.22:103][716]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.30-11.18.22:103][716]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.30-11.18.22:103][716]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.30-11.18.22:103][716]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 17777
+[2021.05.30-11.18.22:103][716]PIE: Server logged in
+[2021.05.30-11.18.22:104][716]PIE: Play in editor total start time 0,081 seconds.
+[2021.05.30-11.18.26:622][800]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.05.30-11.18.26:623][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.18.26:623][800]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra
+[2021.05.30-11.18.26:623][800]LogWorld: UWorld::CleanupWorld for Mapatadobra, bSessionEnded=true, bCleanupResources=true
+[2021.05.30-11.18.26:624][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.18.26:655][800]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.05.30-11.18.26:655][800]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.05.30-11.18.26:655][800]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.05.30-11.18.26:655][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.30-11.18.26:673][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.18.26:681][800]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.30-11.18.26:682][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.30-11.18.26:683][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.30-11.18.26:698][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.18.26:700][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.30-11.18.26:727][801]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.05.30-11.18.31:008][867]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2021.05.30-11.18.36:665][959]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.30-11.18.40:369][ 19]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.30-11.18.41:709][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.30-11.18.41:715][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.30-11.18.41:715][ 40]PIE: New page: PIE session: Mapatadobra (30 maj 2021, 15:18:41)
+[2021.05.30-11.18.41:716][ 40]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra
+[2021.05.30-11.18.41:727][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012465s)
+[2021.05.30-11.18.41:728][ 40]LogAIModule: Creating AISystem for world Mapatadobra
+[2021.05.30-11.18.41:728][ 40]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2021.05.30-11.18.41:728][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra to /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra.Mapatadobra (0.013367s)
+[2021.05.30-11.18.41:734][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.30-11.18.41:735][ 40]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.30-11.18.41:735][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.30-11.18.41:735][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.30-11.18.41:735][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.30-11.18.41:735][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.30-11.18.41:735][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.30-11.18.41:735][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.30-11.18.41:735][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.30-11.18.41:735][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.30-11.18.41:736][ 40]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.30-11.18.41:736][ 40]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.30-11.18.41:739][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.30-11.18.41:739][ 40]LogAudioMixer: Display: 1: FrontRight
+[2021.05.30-11.18.41:751][ 40]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (Arctis 5 Chat)
+[2021.05.30-11.18.41:751][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.30-11.18.41:751][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.30-11.18.41:751][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.30-11.18.41:752][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.30-11.18.41:752][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.30-11.18.41:752][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.30-11.18.41:764][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.30-11.18.41:764][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.30-11.18.41:764][ 40]LogInit: FAudioDevice initialized.
+[2021.05.30-11.18.41:764][ 40]LogAudio: Display: Audio Device (ID: 4) registered with world 'Mapatadobra'.
+[2021.05.30-11.18.41:772][ 40]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.05.30-11.18.41:775][ 40]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra.Mapatadobra up for play (max tick rate 0) at 2021.05.30-13.18.41
+[2021.05.30-11.18.41:776][ 40]LogWorld: Bringing up level for play took: 0.003062
+[2021.05.30-11.18.41:776][ 40]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.05.30-11.18.41:779][ 40]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.30-11.18.41:779][ 40]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.30-11.18.41:779][ 40]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.30-11.18.41:779][ 40]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.30-11.18.41:779][ 40]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.30-11.18.41:779][ 40]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2021.05.30-11.18.41:780][ 40]PIE: Server logged in
+[2021.05.30-11.18.41:781][ 40]PIE: Play in editor total start time 0,067 seconds.
+[2021.05.30-11.18.44:774][ 94]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.05.30-11.18.44:774][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.18.44:774][ 94]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Mapatadobra
+[2021.05.30-11.18.44:774][ 94]LogWorld: UWorld::CleanupWorld for Mapatadobra, bSessionEnded=true, bCleanupResources=true
+[2021.05.30-11.18.44:775][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.18.44:799][ 94]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.05.30-11.18.44:799][ 94]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.05.30-11.18.44:799][ 94]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.05.30-11.18.44:799][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.30-11.18.44:812][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-11.18.44:820][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.30-11.18.44:820][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.30-11.18.44:822][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.30-11.18.44:837][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.30-11.18.44:858][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.05.30-11.18.55:871][259]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.30-11.19.04:155][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2021.05.30-11.19.08:268][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.19.37:240][947]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-11.19.50:282][166]LogActorFactory: Actor Factory created Cylinder
+[2021.05.30-11.19.54:100][237]LogActorFactory: Actor Factory created Cylinder
+[2021.05.30-11.19.56:848][281]Cmd: DELETE
+[2021.05.30-11.19.56:849][281]Cmd: ACTOR DELETE
+[2021.05.30-11.19.56:867][281]LogEditorActor: Deleted Actor: Brush
+[2021.05.30-11.19.56:892][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.30-11.19.56:966][281]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2021.05.30-11.19.57:698][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.20.16:523][598]LogActorFactory: Actor Factory created Cone
+[2021.05.30-11.20.18:695][639]LogActorFactory: Actor Factory created Cone
+[2021.05.30-11.20.41:581][ 33]LogActorFactory: Actor Factory created Cylinder
+[2021.05.30-11.20.43:343][ 68]LogActorFactory: Actor Factory created Cylinder
+[2021.05.30-11.21.04:012][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.21.23:692][733]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.21.26:367][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.21.31:704][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.21.32:305][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.21.35:682][926]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.21.43:946][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.22.01:351][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.22.03:671][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.22.03:698][384]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.05.30-11.22.04:672][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.22.11:284][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.22.20:092][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.23.00:736][319]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.23.06:981][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.23.10:944][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.23.27:195][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.23.33:002][799]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra:PersistentLevel.Cylinder2_8.StaticMeshComponent0)
+[2021.05.30-11.23.33:631][809]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra:PersistentLevel.Cylinder2_8.StaticMeshComponent0)
+[2021.05.30-11.24.10:639][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2021.05.30-11.24.11:461][561]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.24.21:551][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.24.31:876][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.24.48:066][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.24.56:799][259]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.25.06:405][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.25.07:124][412]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.25.14:677][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.25.16:322][547]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2021.05.30-11.25.17:922][572]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.25.47:581][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.26.07:061][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.26.16:441][465]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.26.21:947][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.26.40:629][848]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.26.54:817][ 57]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.26.56:089][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2021.05.30-11.26.57:972][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.27.29:579][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.27.36:556][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.27.40:470][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.27.42:431][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.27.45:732][848]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.27.56:710][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.27.57:707][ 32]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2021.05.30-11.27.59:451][ 59]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.28.46:355][338]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.28.54:270][654]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.29.06:101][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.29.13:707][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.29.14:254][979]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.29.16:849][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.29.23:413][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.29.26:220][170]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.29.27:607][190]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2021.05.30-11.29.28:728][207]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.29.45:607][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.29.47:586][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2021.05.30-11.30.05:619][803]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.30.08:752][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2021.05.30-11.30.11:470][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.30.26:517][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2021.05.30-11.30.36:935][285]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.30.55:375][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.30-11.31.01:338][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.31.06:990][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.31.36:483][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2021.05.30-11.31.42:801][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.31.48:330][404]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.32.01:978][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.32.03:277][627]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2021.05.30-11.32.04:180][640]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.32.09:420][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.32.18:266][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.32.25:867][980]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.32.47:645][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.32.56:620][465]Cmd: DELETE
+[2021.05.30-11.32.56:620][465]Cmd: ACTOR DELETE
+[2021.05.30-11.32.56:653][465]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-11.32.56:736][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.30-11.32.56:738][465]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2021.05.30-11.32.57:768][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.33.02:107][547]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder2)
+[2021.05.30-11.33.03:305][565]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2021.05.30-11.33.04:445][582]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2021.05.30-11.33.27:576][928]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-11.33.34:029][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2021.05.30-11.33.35:668][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2021.05.30-11.33.36:675][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2021.05.30-11.33.40:999][133]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder4)
+[2021.05.30-11.33.41:841][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone2)
+[2021.05.30-11.35.36:721][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-11.35.52:285][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2021.05.30-11.38.27:477][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2021.05.30-11.38.28:646][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2021.05.30-11.38.51:013][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2021.05.30-11.38.56:509][147]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-11.39.38:314][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2021.05.30-11.39.43:739][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.05.30-11.39.53:613][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2021.05.30-11.40.08:303][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.05.30-11.40.12:809][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.05.30-11.40.16:137][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.05.30-11.40.25:089][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2021.05.30-11.40.32:886][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2021.05.30-11.41.06:092][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2021.05.30-11.41.09:631][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2021.05.30-11.41.14:492][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2021.05.30-11.41.34:613][575]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube17)
+[2021.05.30-11.42.04:740][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.05.30-11.42.04:802][155]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto116EB4AD0421A638B6B1A82BF50BB23E5.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto1.umap'
+[2021.05.30-11.42.04:805][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.079
+[2021.05.30-11.42.04:805][155]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2021.05.30-11.42.16:285][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.05.30-11.42.20:126][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2021.05.30-11.42.23:943][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.05.30-11.42.26:358][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2021.05.30-11.42.32:287][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.05.30-11.42.48:166][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.05.30-11.43.06:400][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2021.05.30-11.43.16:624][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2021.05.30-11.45.54:120][836]LogActorFactory: Actor Factory created Plane
+[2021.05.30-11.46.00:252][953]LogActorFactory: Actor Factory created Plane
+[2021.05.30-11.48.09:473][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.30-11.48.26:175][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.05.30-11.48.45:058][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.05.30-11.49.07:326][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.05.30-11.49.15:431][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.05.30-11.49.37:574][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.05.30-11.49.39:443][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.05.30-11.49.41:875][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.05.30-11.49.43:813][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.30-11.49.50:784][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.05.30-11.51.45:647][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.05.30-11.51.49:874][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.05.30-11.52.14:174][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.05.30-11.52.36:929][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.05.30-11.52.41:426][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.05.30-11.53.17:793][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2021.05.30-11.53.30:305][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.05.30-11.53.37:846][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2021.05.30-11.54.00:480][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.05.30-11.54.13:461][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.30-11.54.17:312][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.05.30-11.55.04:483][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.30-11.55.05:461][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2021.05.30-11.55.14:216][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.05.30-11.55.18:354][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2021.05.30-11.55.44:407][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.05.30-11.55.53:735][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2021.05.30-11.55.57:555][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.05.30-11.56.03:363][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2021.05.30-11.56.09:711][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.05.30-11.56.59:119][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2021.05.30-11.56.59:927][468]Cmd: DELETE
+[2021.05.30-11.56.59:927][468]Cmd: ACTOR DELETE
+[2021.05.30-11.56.59:944][468]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-11.56.59:989][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.05.30-11.56.59:990][468]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.05.30-11.57.03:001][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2021.05.30-11.57.52:338][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.30-11.57.52:386][347]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto2A92C5C394287083A846D998546C5B1C3.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto2.umap'
+[2021.05.30-11.57.52:388][347]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.059
+[2021.05.30-11.57.52:388][347]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAF18FB-4B89-FB49-D71A-1EBE77AE7151%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=31dbf1ba45fa1fb3255c8e9a3e7dc1ae%7Ca159d9791340483c9427b33a038ab117%7C6b0b5123-84de-45c6-b6f5-7e69bedf19ac&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20ad8c83eb0 [can pipeline])
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.228.246.32) port 443 (#0))
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.30-12.05.44:670][977]LogHttp: Warning: 0000020AB81D4800: libcurl info message cache 7 (Closing connection 0)
+[2021.05.30-12.05.44:713][978]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAF18FB-4B89-FB49-D71A-1EBE77AE7151%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=31dbf1ba45fa1fb3255c8e9a3e7dc1ae%7Ca159d9791340483c9427b33a038ab117%7C6b0b5123-84de-45c6-b6f5-7e69bedf19ac&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.30-12.07.56:760][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.05.30-12.07.59:922][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.05.30-12.08.47:815][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-12.08.57:991][ 84]LogActorFactory: Actor Factory created Cylinder
+[2021.05.30-12.09.00:722][129]LogActorFactory: Actor Factory created Cylinder
+[2021.05.30-12.09.29:144][579]LogActorFactory: Actor Factory created Sphere
+[2021.05.30-12.09.30:822][607]LogActorFactory: Actor Factory created Sphere
+[2021.05.30-12.09.57:173][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.05.30-12.10.25:735][461]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder5)
+[2021.05.30-12.11.47:101][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2021.05.30-12.11.59:754][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2021.05.30-12.12.03:956][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.05.30-12.12.05:603][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-12.12.16:872][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2021.05.30-12.12.18:072][233]Cmd: DELETE
+[2021.05.30-12.12.18:072][233]Cmd: ACTOR DELETE
+[2021.05.30-12.12.18:087][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.12.18:133][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.05.30-12.12.18:134][233]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.05.30-12.12.18:671][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2021.05.30-12.12.19:024][248]Cmd: DELETE
+[2021.05.30-12.12.19:024][248]Cmd: ACTOR DELETE
+[2021.05.30-12.12.19:040][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.12.19:047][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.30-12.12.19:047][248]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.05.30-12.12.19:752][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder8)
+[2021.05.30-12.12.20:055][264]Cmd: DELETE
+[2021.05.30-12.12.20:055][264]Cmd: ACTOR DELETE
+[2021.05.30-12.12.20:069][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.12.20:075][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.30-12.12.20:076][264]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.05.30-12.12.22:709][305]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder6)
+[2021.05.30-12.12.24:018][326]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere2)
+[2021.05.30-12.15.17:178][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder9)
+[2021.05.30-12.15.23:133][209]Cmd: TRANSACTION UNDO
+[2021.05.30-12.15.23:133][209]LogEditorTransaction: Undo Move Actors
+[2021.05.30-12.15.25:842][293]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere5)
+[2021.05.30-12.15.56:942][786]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder10)
+[2021.05.30-12.15.57:947][801]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere6)
+[2021.05.30-12.16.08:233][959]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-12.16.10:698][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere5)
+[2021.05.30-12.16.11:670][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder9)
+[2021.05.30-12.16.19:982][136]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-12.16.45:879][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.30-12.16.45:933][547]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto3491B350646638A1A04BAF09D8B06ACA6.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto3.umap'
+[2021.05.30-12.16.45:949][547]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.079
+[2021.05.30-12.16.45:949][547]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2021.05.30-12.17.18:445][ 27]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-12.19.04:207][721]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-12.22.15:570][708]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-12.22.58:397][333]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-12.26.48:125][914]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-12.27.20:577][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.05.30-12.27.20:684][435]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto4B5D069A942CA26EE99196DB1CD10D7BD.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto4.umap'
+[2021.05.30-12.27.20:701][435]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.162
+[2021.05.30-12.27.20:701][435]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.162
+[2021.05.30-12.36.26:934][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.05.30-12.36.27:669][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.05.30-12.37.29:440][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-12.40.54:758][518]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush26)
+[2021.05.30-12.41.54:058][493]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-12.41.56:663][536]Cmd: DELETE
+[2021.05.30-12.41.56:663][536]Cmd: ACTOR DELETE
+[2021.05.30-12.41.56:746][536]LogEditorActor: Deleted Actor: Brush
+[2021.05.30-12.41.56:792][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.30-12.41.56:863][536]LogEditorActor: Deleted 1 Actors (0.199 secs)
+[2021.05.30-12.42.28:124][ 71]Cmd: DELETE
+[2021.05.30-12.42.28:124][ 71]Cmd: ACTOR DELETE
+[2021.05.30-12.42.28:157][ 71]LogEditorActor: Deleted Actor: Actor
+[2021.05.30-12.42.28:183][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.30-12.42.28:187][ 71]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.05.30-12.42.29:911][105]LogActorFactory: Actor Factory created Sphere
+[2021.05.30-12.42.30:896][122]LogActorFactory: Actor Factory created Sphere
+[2021.05.30-12.42.32:616][150]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra:PersistentLevel.Sphere7_52.StaticMeshComponent0)
+[2021.05.30-12.42.32:617][150]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/TopDownBP/Maps/Mapatadobra.Mapatadobra:PersistentLevel.Sphere7_52.StaticMeshComponent0)
+[2021.05.30-12.45.16:062][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.05.30-12.45.18:640][603]Cmd: DELETE
+[2021.05.30-12.45.18:640][603]Cmd: ACTOR DELETE
+[2021.05.30-12.45.18:681][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.18:712][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.05.30-12.45.18:716][603]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2021.05.30-12.45.19:247][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.05.30-12.45.19:521][615]Cmd: DELETE
+[2021.05.30-12.45.19:522][615]Cmd: ACTOR DELETE
+[2021.05.30-12.45.19:556][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.19:568][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.30-12.45.19:569][615]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.05.30-12.45.20:189][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.05.30-12.45.20:515][629]Cmd: DELETE
+[2021.05.30-12.45.20:515][629]Cmd: ACTOR DELETE
+[2021.05.30-12.45.20:550][629]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.20:562][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.30-12.45.20:563][629]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.05.30-12.45.21:049][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2021.05.30-12.45.21:521][643]Cmd: DELETE
+[2021.05.30-12.45.21:521][643]Cmd: ACTOR DELETE
+[2021.05.30-12.45.21:556][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.21:567][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.30-12.45.21:568][643]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.05.30-12.45.22:328][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2021.05.30-12.45.22:787][661]Cmd: DELETE
+[2021.05.30-12.45.22:787][661]Cmd: ACTOR DELETE
+[2021.05.30-12.45.22:821][661]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.22:864][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.05.30-12.45.22:866][661]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2021.05.30-12.45.23:523][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.05.30-12.45.23:791][675]Cmd: DELETE
+[2021.05.30-12.45.23:792][675]Cmd: ACTOR DELETE
+[2021.05.30-12.45.23:827][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.23:840][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.30-12.45.23:841][675]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.05.30-12.45.24:534][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2021.05.30-12.45.24:860][690]Cmd: DELETE
+[2021.05.30-12.45.24:860][690]Cmd: ACTOR DELETE
+[2021.05.30-12.45.24:900][690]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.24:911][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.05.30-12.45.24:912][690]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.05.30-12.45.25:469][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.05.30-12.45.25:793][703]Cmd: DELETE
+[2021.05.30-12.45.25:793][703]Cmd: ACTOR DELETE
+[2021.05.30-12.45.25:835][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.25:847][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.30-12.45.25:848][703]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.05.30-12.45.26:526][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2021.05.30-12.45.26:793][717]Cmd: DELETE
+[2021.05.30-12.45.26:793][717]Cmd: ACTOR DELETE
+[2021.05.30-12.45.26:835][717]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.26:848][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.30-12.45.26:849][717]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.05.30-12.45.27:344][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.05.30-12.45.27:667][729]Cmd: DELETE
+[2021.05.30-12.45.27:667][729]Cmd: ACTOR DELETE
+[2021.05.30-12.45.27:701][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.45.27:713][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.30-12.45.27:713][729]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.05.30-12.45.28:641][743]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane2)
+[2021.05.30-12.45.30:188][806]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-12.46.08:763][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2021.05.30-12.46.11:585][369]Cmd: DELETE
+[2021.05.30-12.46.11:585][369]Cmd: ACTOR DELETE
+[2021.05.30-12.46.11:617][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.46.11:630][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.05.30-12.46.11:632][369]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.05.30-12.46.25:426][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-12.46.35:475][729]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-12.47.16:469][ 41]LogActorFactory: Actor Factory created Cube
+[2021.05.30-12.47.18:467][ 68]LogActorFactory: Actor Factory created Cube
+[2021.05.30-12.48.07:464][611]Cmd: DELETE
+[2021.05.30-12.48.07:464][611]Cmd: ACTOR DELETE
+[2021.05.30-12.48.07:500][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-12.48.07:561][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.05.30-12.48.07:567][611]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2021.05.30-12.48.13:589][678]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-12.50.59:033][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.05.30-12.50.59:159][365]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto5B05EE4314CEFB4E53B0974BE4F5340F1.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto5.umap'
+[2021.05.30-12.50.59:163][365]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.168
+[2021.05.30-12.50.59:163][365]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.168
+[2021.05.30-12.54.07:128][309]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.00.59:514][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.30-13.00.59:629][200]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto68C68731248ACB562BB6F06A7D14387B8.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto6.umap'
+[2021.05.30-13.00.59:631][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.148
+[2021.05.30-13.00.59:631][200]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.148
+[2021.05.30-13.02.49:460][518]Cmd: TRANSACTION UNDO
+[2021.05.30-13.02.49:460][518]LogEditorTransaction: Undo Scale Actors
+[2021.05.30-13.04.58:693][991]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.05.47:596][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.05.30-13.05.53:439][509]Cmd: DELETE
+[2021.05.30-13.05.53:439][509]Cmd: ACTOR DELETE
+[2021.05.30-13.05.53:493][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-13.05.53:546][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.05.30-13.05.53:553][509]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2021.05.30-13.05.57:358][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.07.35:485][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2021.05.30-13.07.36:792][599]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.07.37:812][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2021.05.30-13.07.51:621][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.07.52:901][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2021.05.30-13.07.57:323][963]Cmd: DELETE
+[2021.05.30-13.07.57:323][963]Cmd: ACTOR DELETE
+[2021.05.30-13.07.57:353][963]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-13.07.57:405][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.05.30-13.07.57:408][963]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2021.05.30-13.08.01:547][ 10]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-13.09.16:551][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.20:528][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.21:513][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.09.22:600][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.27:632][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.28:529][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.29:124][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.29:645][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.30:063][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.30:389][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.09.30:592][  5]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.30-13.09.32:177][ 22]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.30-13.09.32:972][ 31]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.30-13.09.33:770][ 40]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.30-13.09.34:014][ 45]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.30-13.09.34:595][ 50]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.30-13.10.00:408][292]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.01:430][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.05.30-13.10.02:265][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.05.30-13.10.03:673][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.05.30-13.10.04:272][344]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.04:990][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.05:330][358]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.05:651][363]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.05.30-13.10.11:559][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.05.30-13.10.18:032][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.18:848][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.20:084][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.20:580][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.20:885][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.21:270][573]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.23:177][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.05.30-13.10.24:100][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.25:715][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.26:240][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.26:840][649]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.27:271][655]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.10.28:976][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.29:717][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.30:605][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.05.30-13.10.33:332][741]Cmd: DELETE
+[2021.05.30-13.10.33:332][741]Cmd: ACTOR DELETE
+[2021.05.30-13.10.33:367][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-13.10.33:406][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.05.30-13.10.33:413][741]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.05.30-13.10.37:266][816]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-13.11.04:148][162]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.11.45:875][776]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.12.29:358][423]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.12.37:677][592]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.13.22:447][256]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.14.18:713][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-13.14.22:384][172]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-13.14.23:152][182]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-13.14.24:041][194]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-13.14.24:714][203]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-13.15.16:013][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-13.16.06:249][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.05.30-13.16.06:345][680]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto755A42B454C0F6210BB3B51B870D876F4.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto7.umap'
+[2021.05.30-13.16.06:348][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.144
+[2021.05.30-13.16.06:348][680]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2021.05.30-13.17.14:944][768]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.17.28:554][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-13.21.12:320][488]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.30-13.22.21:421][524]Cmd: TRANSACTION UNDO
+[2021.05.30-13.22.21:421][524]LogEditorTransaction: Undo Move Actors
+[2021.05.30-13.26.06:734][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.30-13.26.06:843][ 78]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto8EF46BBBD4A34AA8D3626D2BDF3838DD1.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto8.umap'
+[2021.05.30-13.26.06:846][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.197
+[2021.05.30-13.26.06:846][ 78]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.197
+[2021.05.30-13.36.07:172][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.05.30-13.36.07:293][ 36]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto9FE3B85324A7361C298D3E98C4674B38A.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto9.umap'
+[2021.05.30-13.36.07:303][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.164
+[2021.05.30-13.36.07:303][ 36]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2021.05.30-13.37.29:369][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder10)
+[2021.05.30-13.37.39:380][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder9)
+[2021.05.30-13.46.07:588][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.05.30-13.46.07:711][149]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto02755E9134604486CCBCF25A0DD091165.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto0.umap'
+[2021.05.30-13.46.07:713][149]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.140
+[2021.05.30-13.46.07:713][149]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.140
+[2021.05.30-13.56.08:163][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.05.30-13.56.08:284][813]LogSavePackage: Moving '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Mapatadobra_Auto1C569D42F47915EE7A4017FBB65892366.tmp' to '../../../../grazprzyszloscia/GraZPrzyszloscia/Saved/Autosaves/Game/TopDownBP/Maps/Mapatadobra_Auto1.umap'
+[2021.05.30-13.56.08:287][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Mapatadobra' took 0.148
+[2021.05.30-13.56.08:287][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.148
+[2021.05.30-14.00.54:252][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2021.05.30-14.01.00:705][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2021.05.30-14.01.03:066][100]Cmd: TRANSACTION UNDO
+[2021.05.30-14.01.03:066][100]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.30-14.01.04:637][162]Cmd: TRANSACTION UNDO
+[2021.05.30-14.01.04:637][162]LogEditorTransaction: Undo Move Actors
+[2021.05.30-14.01.06:698][191]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere2)
+[2021.05.30-14.01.15:797][332]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder5)
+[2021.05.30-14.01.19:193][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.05.30-14.01.20:506][401]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder5)
+[2021.05.30-14.02.05:392][104]Cmd: TRANSACTION UNDO
+[2021.05.30-14.02.05:392][104]LogEditorTransaction: Undo Rotate Actors
+[2021.05.30-14.02.06:575][149]Cmd: TRANSACTION UNDO
+[2021.05.30-14.02.06:575][149]LogEditorTransaction: Undo Move Actors
+[2021.05.30-14.02.07:931][168]Cmd: TRANSACTION UNDO
+[2021.05.30-14.02.07:931][168]LogEditorTransaction: Undo Move Actors
+[2021.05.30-14.03.03:678][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2021.05.30-14.03.06:932][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2021.05.30-14.03.08:785][118]Cmd: TRANSACTION UNDO
+[2021.05.30-14.03.08:785][118]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.30-14.03.09:702][161]Cmd: TRANSACTION UNDO
+[2021.05.30-14.03.09:703][161]LogEditorTransaction: Undo Move Actors
+[2021.05.30-14.03.11:178][184]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere)
+[2021.05.30-14.03.17:197][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2021.05.30-14.03.18:431][298]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere2)
+[2021.05.30-14.03.28:355][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder8)
+[2021.05.30-14.03.30:216][486]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere4)
+[2021.05.30-14.03.50:122][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2021.05.30-14.03.51:353][826]Cmd: DELETE
+[2021.05.30-14.03.51:353][826]Cmd: ACTOR DELETE
+[2021.05.30-14.03.51:403][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.30-14.03.51:459][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.05.30-14.03.51:466][826]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2021.05.30-14.03.53:019][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.05.30-14.03.53:862][863]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane4)
+[2021.05.30-14.03.59:344][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-14.04.17:596][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-14.05.01:814][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.05.30-14.05.29:287][700]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.30-14.07.40:047][630]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush23)
+[2021.05.30-14.09.02:741][896]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.02:741][896]LogEditorTransaction: Undo Move Actors
+[2021.05.30-14.09.05:851][967]LogEditorViewport: Clicking on Actor (LMB): Brush (Cone Brush32)
+[2021.05.30-14.09.26:159][257]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane7)
+[2021.05.30-14.09.39:359][492]LogEditorViewport: Clicking on Actor (LMB): Brush (Cone Brush25)
+[2021.05.30-14.09.45:127][576]Cmd: ACTOR SELECT ALL
+[2021.05.30-14.09.46:229][589]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.30-14.09.48:867][625]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.48:867][625]LogEditorTransaction: Undo Move Actors
+[2021.05.30-14.09.50:043][660]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.50:043][660]LogEditorTransaction: Undo Select All
+[2021.05.30-14.09.51:005][675]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.51:005][675]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.30-14.09.52:062][690]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.52:062][690]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.30-14.09.52:665][699]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.52:665][699]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.30-14.09.53:131][705]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.53:131][705]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.30-14.09.54:144][720]Cmd: TRANSACTION UNDO
+[2021.05.30-14.09.54:144][720]LogEditorTransaction: Undo Select Brush Surface
